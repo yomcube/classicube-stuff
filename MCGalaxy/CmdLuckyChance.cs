@@ -75,6 +75,9 @@ namespace MCGalaxy {
 				(LCStuff.column1.Length * LCStuff.multiplierheight),
 				new ServerConfig().Currency,
 				LCStuff.amount));
+			p.Message();
+			p.Message("Made by TomCube2");
+			p.Message("His website is https://yomcube.github.io");
 		}
 	}
 }
