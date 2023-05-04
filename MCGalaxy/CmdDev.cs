@@ -10,12 +10,8 @@ public class CmdDev : Command
 	public override void Use(Player p, string message)
 	{
 		if (message.Length == 0) { Help(p); return; }
-		try {
-			Command.Find("Compile").Use(p, message);
-		} catch {}
-		try {
-			Command.Find("CmdUnload").Use(p, message);
-		} catch {}
+		Command.Find("Compile").Use(p, message);
+		Command.Find("CmdUnload").Use(p, message);
 		Command.Find("CmdLoad").Use(p, message);
 	}
 	public override void Help(Player p)
