@@ -7,3 +7,4 @@ This is where you'll find plugins and commands for MCGalaxy.
 |Name|Description|
 |:-:|:-:|
 |CmdLuckyChance|A gambling game. Costs 5 money.|
+|CmdDev|Compiles, unloads, and loads a command.|
