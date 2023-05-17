@@ -12,7 +12,7 @@ public class CmdDev : Command
 		Command compilecmd = Command.Find("Compile");
 		Command plugincmd  = Command.Find("Plugin");
 		if (message.Length == 0 || message.ToLower() == "plugin") { Help(p); return; }
-		if (message.ToLower().StartsWith("plugin")) {
+		if (message.ToLower().StartsWith("plugin ")) {
 			string newmessage = message.Split("plugin ")[1];
 			compilecmd.Use(p, "plugin " + newmessage);
 			plugincmd.Use(p, "unload " + newmessage);
