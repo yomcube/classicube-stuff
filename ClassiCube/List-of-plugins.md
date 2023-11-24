@@ -17,4 +17,3 @@
 |Lua Scripting|[ClassiCube/ClassiCube-Plugins/tree/master/Scripting/Lua](https://github.com/ClassiCube/ClassiCube-Plugins/tree/master/Scripting/Lua)|No|A plugin that allows scripting in Lua|
 |Python Scripting|[ClassiCube/ClassiCube-Plugins/tree/master/Scripting/Python](https://github.com/ClassiCube/ClassiCube-Plugins/tree/master/Scripting/Python)|No|A plugin that allows scripting in Python|
 |Ruby Scripting|[ClassiCube/ClassiCube-Plugins/tree/master/Scripting/Ruby](https://github.com/ClassiCube/ClassiCube-Plugins/tree/master/Scripting/Ruby)|No|A plugin that allows scripting in Ruby|
-|Mono Scripting|[ClassiCube/ClassiCube-Plugins/tree/master/Scripting/mono](https://github.com/ClassiCube/ClassiCube-Plugins/tree/master/Scripting/mono)|No|A plugin that allows scripting in Mono|
