@@ -4,6 +4,37 @@ Plugin API version: 1
 
 These are the functions that are marked available for use in plugins. Note that the following are only the functions, not the macros, structs, or anything else provided in the headers.
 
+## Table of Contents
+
+- [Bitmap.h](#bitmaph)
+- [Block.h](#blockh)
+- [Camera.h](#camerah)
+- [Chat.h](#chath)
+- [Deflate.h](#deflateh)
+- [Drawer2D.h](#drawer2dh)
+- [Drawer.h](#drawerh)
+- [Entity.h](#entityh)
+- [Event.h](#eventh)
+- [ExtMath.h](#extmathh)
+- [Formats.h](#formatsh)
+- [Game.h](#gameh)
+- [Graphics.h](#graphicsh)
+- [Gui.h](#guih)
+- [Input.h](#inputh)
+- [Model.h](#modelh)
+- [Options.h](#optionsh)
+- [PackedCol.h](#packedcolh)
+- [Physics.h](#physicsh)
+- [Platform.h](#platformh)
+- [Protocol.h](#protocolh)
+- [SelectionBox.h](#selectionboxh)
+- [Stream.h](#streamh)
+- [String.h](#stringh)
+- [SystemFonts.h](#systemfontsh)
+- [TexturePack.h](#texturepackh)
+- [Vectors.h](#vectorsh)
+- [Window.h](#windowh)
+- [World.h](#worldh)
 
 ## [Bitmap.h](https://github.com/UnknownShadow200/ClassiCube/blob/master/src/Bitmap.h)
 
