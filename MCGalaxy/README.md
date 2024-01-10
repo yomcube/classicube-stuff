@@ -8,4 +8,3 @@ This is where you'll find plugins and commands for MCGalaxy.
 |:-:|:-:|
 |CmdDev.cs|Compiles, unloads, and loads a command.|
 |CmdLuckyChance.cs|A gambling game. Costs 5 money.|
-|CmdTextCommand.cs|Reads the contents of a file from `textcommands/`|
