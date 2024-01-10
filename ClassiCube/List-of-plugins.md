@@ -9,6 +9,7 @@
 |Chat Bubbles|[SpiralP/classicube-chat-bubbles-plugin](https://github.com/SpiralP/classicube-chat-bubbles-plugin)|Yes|A chat bubbles plugin|
 |Roll|[SpiralP/rust-classicube-roll-plugin](https://github.com/SpiralP/rust-classicube-roll-plugin)|Yes|A plugin that rolls dice|
 |Mention Flash|[SpiralP/classicube-mention-flash-plugin](https://github.com/SpiralP/classicube-mention-flash-plugin)|Yes|Flashes your taskbar when someone says your name in chat!|
+|MonoPlugin|[yomcube/ClassiCubeMonoPlugin](https://github.com/yomcube/ClassiCubeMonoPlugin)|No|A plugin for ClassiCube that allows for scripting functionality with mono|
 |Minimap|[SpiralP/rust-classicube-minimap-plugin](https://github.com/SpiralP/rust-classicube-minimap-plugin)|No|A minimap plugin|
 |Anti AFK|[SpiralP/classicube-anti-afk-plugin](https://github.com/SpiralP/classicube-anti-afk-plugin)|No|An anti-AFK plugin|
 |Command GUI|[SpiralP/classicube-command-gui-plugin](https://github.com/SpiralP/classicube-command-gui-plugin)|No|A command GUI plugin|
