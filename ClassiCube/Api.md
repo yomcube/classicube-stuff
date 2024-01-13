@@ -10,6 +10,7 @@ These are the functions that are marked available for use in plugins. Note that 
 - [Block.h](#blockh)
 - [Camera.h](#camerah)
 - [Chat.h](#chath)
+- [Commands.h](#commandsh)
 - [Deflate.h](#deflateh)
 - [Drawer2D.h](#drawer2dh)
 - [Drawer.h](#drawerh)
@@ -69,10 +70,6 @@ void Camera_Register (struct Camera* camera)
 ## [Chat.h](https://github.com/UnknownShadow200/ClassiCube/blob/master/src/Chat.h)
 
 ```c
-void Commands_Register (struct ChatCommand* cmd)
-```
-
-```c
 void Chat_Send (const cc_string* text, cc_bool logUsage)
 ```
 
@@ -82,6 +79,12 @@ void Chat_Add (const cc_string* text)
 
 ```c
 void Chat_AddOf (const cc_string* text, int msgType)
+```
+
+## [Commands.h](https://github.com/UnkownShadow200/ClassiCube/blob/master/src/Commands.h)
+
+```c
+void Commands_Register (struct ChatCommand* cmd)
 ```
 
 ## [Deflate.h](https://github.com/UnknownShadow200/ClassiCube/blob/master/src/Deflate.h)
